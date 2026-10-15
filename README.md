@@ -1,5 +1,9 @@
 # AVML (Acquire Volatile Memory for Linux)
 
+> [!NOTE]
+> This repository is a fork of [AVML (Acquire Volatile Memory for Linux)](https://github.com/microsoft/avml).
+> Please note that this is a forked version and may not reflect the latest upstream changes.
+
 ## Summary
 
 *A portable volatile memory acquisition tool for Linux.*
